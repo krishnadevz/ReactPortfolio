@@ -1,3 +1,10 @@
+# View Of portfolio
+<img src="https://github.com/krishnadevz/ReactPortfolio/blob/master/portfolio.gif" alt="one">
+
+
+# Live View of this reactapp
+<a href="https://npmiam.firebaseapp.com/" target="_blank">Click me</a>
+
 # Technology Stack used in this project 
 * react-mdl UI components
 * Reactjs routing
